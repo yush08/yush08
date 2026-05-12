@@ -1,11 +1,3 @@
-<hr>
-
-<div align="center"> 
-  <h3>Visitor Count</h3>
-
-  <img src="https://profile-counter.glitch.me/yush08/count.svg" alt="Visitor Count" />
-</div>
-
 ## ⚡️ Stats
 
 <br>

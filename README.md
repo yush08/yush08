@@ -6,21 +6,21 @@
   <img src="https://komarev.com/ghpvc/?username=yush08&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
 </div>
 
-## ⚡ Stats
+## ⚡️ Stats
 
 <br>
 
 <div align="center">
 
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=yush08&count_private=true&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" />
+  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yush08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
-  <img width="390" src="https://streak-stats.demolab.com?user=yush08&theme=tokyonight&hide_border=false&border_radius=10" />
+  <img width="390" src="https://streak-stats.demolab.com?user=yush08&theme=tokyonight&hide_border=true&background=00000000" />
 
-  <br><br>
-
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yush08&layout=donut&theme=tokyonight&hide_border=false&border_radius=10&langs_count=8" />
+  <img width="325" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yush08&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
 </div>
+
+<hr>
 
 ## 🐍 My Contributions
 

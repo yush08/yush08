@@ -18,8 +18,6 @@
 
 <hr>
 
-/* Snake Code*/
-
 ## 🐍 My Contributions
 
 <div align="center">

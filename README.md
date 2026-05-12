@@ -1,9 +1,9 @@
 <hr>
 
 <div align="center"> 
-  <p>Visitor count</p>
+  <h3>Visitor Count</h3>
 
-  <img src="https://komarev.com/ghpvc/?username=yush08&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/yush08/count.svg" alt="Visitor Count" />
 </div>
 
 ## ⚡️ Stats
